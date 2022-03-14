@@ -1,8 +1,8 @@
 # Map_Reduce_Processing
 Parallel program that processes a list of documents using the Map-Reduce Paradigm and orders the documents by their calculated rank.
 
-##Maria-Alexandra Barbu, 335CA
-##Procesarea de documente folosind paradigma Map-Reduce
+## Maria-Alexandra Barbu, 335CA
+## Procesarea de documente folosind paradigma Map-Reduce
 -------------------------------------------------------------------------------
 
 Am citit linie cu linie datele din fișierul de intrare folosind clasa
